@@ -1,6 +1,4 @@
-/**
- * Created by Hà on 29/09/2015.
- */
+
 function couponCollector(number) {
     var collected = [];
 
