@@ -12,7 +12,7 @@
 Giải bài toán thu thập phiếu và tự động sinh ra đồ thị chương trình
 
 ####a. Code: 
-```
+```js
 function couponCollector(number) {
     var collected = [];
 
