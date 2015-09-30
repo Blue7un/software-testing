@@ -33,3 +33,22 @@ function couponCollector(number) {
     return iteration;
 }
 ``` 
+#### b. Đồ thị
+![dothi](cfgraph.PNG?raw=true>)
+
+3.Sử dụng Visutin để tạo đồ thị chương trình cho ngôn ngữ Javascript
+-----------------------------------------------------------------
+[Visutin] (<http://www.aivosto.com/>)
+
+### Cách sử dụng:
+
+-   Cài dặt Visutin
+-   copy source code vào cửa sổ, nhấn draw 
+-   Save as
+
+Ưu điểm: Giao diện thân thiện dễ sử dụng.
+Nhược diểm: Phải trả phí.
+
+### Giao diện
+
+![demo](demovisutin.PNG?raw=true>)
